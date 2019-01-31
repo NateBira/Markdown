@@ -3,7 +3,7 @@ Markdown
 #### H4
 [google link](google.com)
 
-[ my other file link](https://github.com/NateBira/Markdown/)
+[ my other file link](<https://github.com/NateBira/Markdown/>)
 
 ![i have the code for it but couldnt figure out adding a local pic. See code](files/Users/Nate/Pictures/STL.jpg)
 
