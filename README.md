@@ -26,10 +26,10 @@ Numbered list
 4. go to class
 2. hang out with da boys
 
-| My Table | Is | Dope |
-| ------------- |:-----------:| -----:|
-| column 1 | Column 2 | column 3 |
-| idk | this is | my table |
+| My Table | Is    | Dope  |
+| -------- |:- ---:|:-----:|
+| col 1    | Col 2 | col 3 |
+| idk      | this is | my table |
 
 **Bolded Text #yah**
 
