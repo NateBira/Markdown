@@ -9,8 +9,9 @@ i have the code for it but couldnt figure out adding a local pic
 
 ![alt text](https://www.akc.org/wp-content/themes/akc/component-library/assets/img/welcome.jpg "Cute puppy")
 
-```"C# syntax highlighting"
-printf(blah)```
+```C#
+printf(blah)
+```
 
 > This is my Blockquote. I went to office hours today and the TA was nothing but helpful.
 
