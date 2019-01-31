@@ -3,7 +3,7 @@ Markdown
 #### H4
 [google link](google.com)
 
-I kept getting an error for using a GitHub link in this code. - https://github.com/NateBira/Markdown/blob/master/README.md
+I kept getting an error for using a GitHub link in this code.
 
 ![i have the code for it but couldnt figure out adding a local pic. See code](files/Users/Nate/Pictures/STL.jpg)
 
