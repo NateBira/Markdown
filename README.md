@@ -13,7 +13,6 @@ i have the code for it but couldnt figure out adding a local pic
 printf(blah)```
 
 > This is my Blockquote. I went to office hours today and the TA was nothing but helpful.
-> Blockquote
 
 My List
 * Get homework done
@@ -26,7 +25,7 @@ Numbered list
 4. go to class
 2. hang out with da boys
 
-| My Table | Is    | Dope  |
+| My Table | Is    | kool  |
 | -------- |:- ---:|:-----:|
 | col 1    | Col 2 | col 3 |
 | idk      | this is | my table |
