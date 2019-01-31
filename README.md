@@ -26,10 +26,9 @@ Numbered list
 4. go to class
 2. hang out with da boys
 
-| My Table | Is    | kool  |
-| -------- |:- ---:|:-----:|
-| col 1    | Col 2 | col 3 |
-| idk      | this is | my table |
+My  | First | Table
+--- | --- | ---
+1 | 2 | 3
 
 **Bolded Text #yah**
 
