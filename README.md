@@ -5,7 +5,7 @@ Markdown
 
 I kept getting an error for using a GitHub link in this code.
 
-![i have the code for it but couldnt figure out adding a local pic. See code](files/Users/Nate/Pictures/STL.jpg)
+i have the code for it but couldnt figure out adding a local pic
 
 ![alt text](https://www.akc.org/wp-content/themes/akc/component-library/assets/img/welcome.jpg "Cute puppy")
 
