@@ -3,9 +3,9 @@ Markdown
 #### H4
 [google link](google.com)
 
-I kept getting an error for using a GitHub link in this code..
+I kept getting an error for trying to link to other markdown file
 
-i have the code for it but couldnt figure out adding a local pic
+Had the code but couldn't figure out adding a local pic
 
 ![alt text](https://www.akc.org/wp-content/themes/akc/component-library/assets/img/welcome.jpg "Cute puppy")
 
