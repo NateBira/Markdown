@@ -5,7 +5,7 @@ Markdown
 
 I kept getting an error for trying to link to other markdown file
 
-Had the code but couldn't figure out adding a local pic
+![alt text](/STL.jpg)
 
 ![alt text](https://www.akc.org/wp-content/themes/akc/component-library/assets/img/welcome.jpg "Cute puppy")
 
